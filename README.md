@@ -1,9 +1,26 @@
-# RainbowWebSdkAngular
+# Starter Kit for the Rainbow SDK for Web for Angular 2
+---
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+## Installation
+
+Clone this repo and then execute `npm install`
+
+## Rainbow SDK
+
+Once installed, copy the latest version of the Rainbow SDK for Web to the assets directory
+
+```shell
+
+$ cp ./node_modules/rainbow-web-sdk/dist/vendors-sdk.min.js assets/
+$ cp ./node_modules/rainbow-web-sdk/dist/rainbow-sdk.min.js assets/
+
+```
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Code scaffolding
 

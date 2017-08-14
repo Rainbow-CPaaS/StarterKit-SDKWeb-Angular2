@@ -112,5 +112,12 @@
     "no-access-missing-member": true,
     "templates-use-public": true,
     "invoke-injectable": true
-  }
+  },
+  "globals": {
+    "window": true,
+    "rainbowSDK": true,
+    "jest": true,
+    "expect": true,
+    "angular": true
+    }
 }
