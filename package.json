@@ -1,6 +1,6 @@
 {
   "name": "rainbow-web-sdk-angular",
-  "version": "1.37.0",
+  "version": "1.40.0",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "^4.4.1",
     "@angular/router": "^4.4.1",
     "core-js": "^2.4.1",
-    "rainbow-web-sdk": "^1.37.0",
+    "rainbow-web-sdk": "^1.40.0",
     "rxjs": "^5.5.6",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2"
