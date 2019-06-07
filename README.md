@@ -20,7 +20,7 @@ $ cp ./node_modules/rainbow-web-sdk//dist/lib/rainbow-sdk.min.js ./src/assets/
 
 ## Development server
  
-Run `npm serve` which internally will launch `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` which internally will launch `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
 ## Code scaffolding
