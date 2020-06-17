@@ -5,8 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-	"copy": "cp ./node_modules/rainbow-web-sdk/src/vendors-sdk.min.js ./src/assets",
-	"test": "ng test",
+    "copy": "cp ./node_modules/rainbow-web-sdk/src/vendors-sdk.min.js ./src/assets",
+    "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
@@ -20,7 +20,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
-    "rainbow-web-sdk": "^1.68.0",
+    "rainbow-web-sdk": "^1.72.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
