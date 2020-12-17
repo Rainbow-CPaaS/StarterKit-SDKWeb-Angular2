@@ -5,6 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "buildProd": "env NG_BUILD_MANGLE=false ng build --prod",
+    "serveProd": "env NG_BUILD_MANGLE=false ng serve --prod",
     "copy": "cp ./node_modules/rainbow-web-sdk/src/vendors-sdk.min.js ./src/assets",
     "test": "ng test",
     "lint": "ng lint",
@@ -20,7 +22,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
-    "rainbow-web-sdk": "^1.72.0",
+    "rainbow-web-sdk": "^1.80.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
